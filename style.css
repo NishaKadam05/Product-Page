@@ -16,6 +16,7 @@ section{
 .pdt1{
     background-color: white;
     padding: 50px;
+    box-shadow: 6px 6px 6px 6px;
 }
 
 h2{
@@ -37,6 +38,7 @@ h2{
 .pdt2{
     background-color: white;
     padding: 50px;
+    box-shadow: 6px 6px 6px 6px;
 }
 
 .pdt2 img{
@@ -51,6 +53,7 @@ h2{
 .pdt3{
     background-color: white;
     padding: 50px;
+    box-shadow: 6px 6px 6px 6px;
 }
 
 .pdt3 img{
@@ -65,6 +68,7 @@ h2{
 .pdt4{
     background-color: white;
     padding: 50px;
+    box-shadow: 6px 6px 6px 6px;
 }
 
 .pdt4 img{
